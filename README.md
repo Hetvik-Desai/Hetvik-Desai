@@ -1,4 +1,5 @@
 👋Hey, I am Hetvik
+<br>
 🧑🏻‍💻About Me<br>🎓Undergraduate student in Australia with a strong interest in Information Security and Software Engineering<br>📖Academic background in Cybersecurity and Software Development with a focus on building resilient, security- conscious applications<br>💻Currently developing expertise in Full stack development along with web-based Penetration Testing for a better understanding of web based applications and services<br>📈Continuously expanding technical knowledge across modern tech stacks<br>🤝Open to professional collaboration on technically rigorous and impactful projects
 
 
