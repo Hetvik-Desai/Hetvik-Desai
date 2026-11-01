@@ -4,7 +4,7 @@
 
 # Hetvik Desai
 
-<sup>Software Development &nbsp;·&nbsp; Cybersecurity </sup>
+<h3><i>Software Development &nbsp;·&nbsp; Cybersecurity</i></h3>
 
 <br/>
 
@@ -93,7 +93,7 @@ I am **Hetvik Desai** - a second-year Bachelor of Information Technology student
 <div align="center">
 
 
-<img width="60%" height="235" src="https://github-readme-activity-graph.vercel.app/graph?username=Hetvik-Desai&bg_color=0d1117&color=a78bfa&line=60a5fa&point=8b5cf6&area=true&area_color=1e1b4b&hide_border=false&radius=16&custom_title=commit%20stream" />
+<!-- <img width="60%" height="235" src="https://github-readme-activity-graph.vercel.app/graph?username=Hetvik-Desai&bg_color=0d1117&color=a78bfa&line=60a5fa&point=8b5cf6&area=true&area_color=1e1b4b&hide_border=false&radius=16&custom_title=commit%20stream" /> -->
 
 
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=Hetvik-Desai&custom_title=GitHub+Stats&theme=merko&title_color=a5b4fc&text_color=c4b5fd&icon_color=60a5fa&ring_color=8b5cf6&border_color=6366f1&hide_border=false&locale=en&border_radius=4.5&card_width=300&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
@@ -113,13 +113,12 @@ I am **Hetvik Desai** - a second-year Bachelor of Information Technology student
 
 <div align="center">
 
-#### Let's Build Something Secure.
+### Let's Build Something Secure.
 
-<sub>`˖⊹𖥔` Brisbane, Australia &nbsp;·&nbsp; [hetvikdesai04@gmail.com](mailto:hetvikdesai04@gmail.com) &nbsp;·&nbsp; <code>hetvik@dev$ _</code></sub>
+### <sub>`˖⊹𖥔` Brisbane, Australia &nbsp;·&nbsp; [hetvikdesai04@gmail.com](mailto:hetvikdesai04@gmail.com) &nbsp;·&nbsp; <code>hetvik@dev$ _</code></sub>
 
-[![Gmail](https://img.shields.io/badge/Gmail-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:hetvikdesai04@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Hetvik-Desai&style=flat-square&color=6366f1&label=views)](https://github.com/Hetvik-Desai)
-</br></br>
+
+### [![Profile Views](https://komarev.com/ghpvc/?username=Hetvik-Desai&style=flat-square&color=6366f1&label=views)](https://github.com/Hetvik-Desai)
 
 ִֶָ𓂃 ࣪˖ ִֶָ🔐་༘࿐
 
